@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://larsdoorenbos.github.io/start/sitemap.xml
+Sitemap: https://larsdoorenbos.github.io/sitemap.xml
