@@ -1,12 +1,17 @@
-github_users:
-  - torvalds
-  - alshedivat
+
+
+
+
+
+
+
+
+
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - LarsDoorenbos/ccdm-stochastic-segmentation
+  - LarsDoorenbos/generate-spectra
+  - LarsDoorenbos/HoroRF
+  - LarsDoorenbos/Data-invariants
+  - LarsDoorenbos/SS3D
+  - LarsDoorenbos/ULISSE
