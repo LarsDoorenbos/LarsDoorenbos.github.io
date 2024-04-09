@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I finished my internship at the Nvidia <a href="https://www.nvidia.com/en-us/clara/medical-devices/">Holoscan team</a> , where I worked on controlling robots with vision-language models
+I finished my internship at Nvidia, where I worked on controlling robots with vision-language models
