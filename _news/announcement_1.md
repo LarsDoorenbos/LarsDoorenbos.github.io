@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Stochastic Segmentation with Conditional Categorical Diffusion Models" has been accepted at ICCV 2023
+Our paper "Stochastic Segmentation with Conditional Categorical Diffusion Models" has been accepted at ICCV 2023.

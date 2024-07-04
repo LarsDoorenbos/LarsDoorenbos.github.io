@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Hyperbolic Random Forests" has been published in Transactions on Machine Learning Research
+Our paper "Hyperbolic Random Forests" has been published in Transactions on Machine Learning Research.

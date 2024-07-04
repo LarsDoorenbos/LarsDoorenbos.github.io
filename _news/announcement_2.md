@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Generating astronomical spectra from photometry with conditional diffusion models" has been selected as an oral presentation at the Bern Data Science Day 2023
+"Generating astronomical spectra from photometry with conditional diffusion models" has been selected as an oral presentation at the Bern Data Science Day 2023.

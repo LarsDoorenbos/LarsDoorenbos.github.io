@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "SuFIA: Language-guided Subtask Autonomy Towards Interactive Robotic Surgical Assistants" has been accepted at the C4SR+ workshop at ICRA 2024
+Our paper "SuFIA: Language-guided Subtask Autonomy Towards Interactive Robotic Surgical Assistants" has been accepted at the C4SR+ workshop at ICRA 2024.

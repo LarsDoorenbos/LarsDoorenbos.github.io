@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been selected as a <a href="https://www.daad.de/en/the-daad/postdocnet/">DAAD AInet</a> fellow for 2024
+I have been selected as a <a href="https://www.daad.de/en/the-daad/postdocnet/">DAAD AInet</a> fellow for 2024.
