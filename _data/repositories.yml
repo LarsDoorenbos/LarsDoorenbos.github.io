@@ -11,6 +11,8 @@
 github_repos:
   - LarsDoorenbos/ccdm-stochastic-segmentation
   - LarsDoorenbos/generate-spectra
+  - LarsDoorenbos/NCIS
+  - LarsDoorenbos/Nonlinear-invariants
   - LarsDoorenbos/HoroRF
   - LarsDoorenbos/Data-invariants
   - LarsDoorenbos/SS3D

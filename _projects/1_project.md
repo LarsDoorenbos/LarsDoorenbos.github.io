@@ -2,7 +2,7 @@
 layout: page
 title: Hyperspectral segmentation
 description: a holoscan application for segmentation of intraoperative hyperspectral cubes
-img: assets/img/h.jpg
+img: h.png
 importance: 1
 category: work
 ---
